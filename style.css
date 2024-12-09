@@ -1,0 +1,32 @@
+body {
+    background-color: indigo;
+    color: white;
+    text-align: center;
+    font-family: Monospace;
+}
+
+strong {
+    color: aqua;
+}
+
+main {
+    border-style: groove;
+
+}
+
+footer {
+    background-color: #892be22e;
+    width: 99%;
+    position: absolute;
+    bottom: 0;
+}
+
+a {
+    color: aliceblue;
+}
+
+img {
+    display: inline;
+    width: 950px;
+    height: 400px;
+  }

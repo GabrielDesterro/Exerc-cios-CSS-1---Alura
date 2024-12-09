@@ -1,0 +1,36 @@
+body {
+    background-color: #7ecbff;
+    text-align: center;
+    font-family: Sans-serif;
+    color: rgb(0, 0, 27);
+}
+
+header {
+    background-color: rgba(168, 252, 255, 0.262);
+    width: 99%;
+    position: absolute;
+    top: 0;
+}
+
+main {
+    position: absolute;
+    bottom: 300px;
+    right: 500px;
+}
+
+a {
+    color: rgb(4, 0, 255);
+}
+
+footer {
+    background-color: rgba(168, 252, 255, 0.262);
+    width: 99%;
+    position: absolute;
+    bottom: 0;
+}
+
+img {
+    display: inline;
+    width: 950px;
+    height: 400px;
+}
